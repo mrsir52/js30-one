@@ -1,0 +1,5 @@
+.playing {
+    transform: scale(2);
+    border-color: brown;
+    box-shadow: 0 0 10px #ffc600;
+}
