@@ -1,3 +1,10 @@
+body {
+    background-image: url("files/background.jpg");
+    color: white;
+}
+
+
+
 .playing {
     transform: scale(2);
     border-color: brown;
