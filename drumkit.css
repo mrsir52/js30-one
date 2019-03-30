@@ -1,9 +1,16 @@
 body {
     background-image: url("files/background.jpg");
+    background-size: cover;
     color: white;
 }
 
-
+.keys {
+    display: flex;
+    flex: 1;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
 
 .playing {
     transform: scale(2);
